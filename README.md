@@ -1,4 +1,6 @@
-# Hi, I'm Kajal ![Hi](https://github.com/user-attachments/assets/e4f7040b-f2af-428a-8820-50d1c12e6250)
+# Hi, I'm Kajal 
+
+![Hi](https://github.com/user-attachments/assets/e4f7040b-f2af-428a-8820-50d1c12e6250)
 
 ## About Me
 - 🔭 I’m a passionate backend developer specializing in Python and Django.
